@@ -1,0 +1,15 @@
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/bin/Debug/net8.0/AtelierClasses
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/bin/Debug/net8.0/AtelierClasses.deps.json
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/bin/Debug/net8.0/AtelierClasses.runtimeconfig.json
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/bin/Debug/net8.0/AtelierClasses.dll
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/bin/Debug/net8.0/AtelierClasses.pdb
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/obj/Debug/net8.0/AtelierClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/obj/Debug/net8.0/AtelierClasses.AssemblyInfoInputs.cache
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/obj/Debug/net8.0/AtelierClasses.AssemblyInfo.cs
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/obj/Debug/net8.0/AtelierClasses.csproj.CoreCompileInputs.cache
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/obj/Debug/net8.0/AtelierClasses.sourcelink.json
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/obj/Debug/net8.0/AtelierClasses.dll
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/obj/Debug/net8.0/refint/AtelierClasses.dll
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/obj/Debug/net8.0/AtelierClasses.pdb
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/obj/Debug/net8.0/AtelierClasses.genruntimeconfig.cache
+/Users/helenamiura/Projects/Net/24-atelierClasses/AtelierClasses/obj/Debug/net8.0/ref/AtelierClasses.dll
